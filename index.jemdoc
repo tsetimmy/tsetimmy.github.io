@@ -1,7 +1,20 @@
 # jemdoc: menu{MENU}{index.html}
 = Tim Tse
 
-I am a Master's student at the University of Waterloo supervised by Prof. Pascal Poupart. I am broadly interested in the area of machine learning. My recent work involves investigating techniques for improving the sample efficiency of deep reinforcement learning algorithms.
- 	
+Master's student\n
+[https://cs.uwaterloo.ca/ Cheriton School of Computer Science]\n
+[https://uwaterloo.ca/ University of Waterloo]\n
+200 University Avenue West\n
+Waterloo, Ontario\n
+Canada N2L 3G1
 
+email: trttse@uwaterloo.ca\n
+office: DC 3128\n
 
+== Brief Biography
+I am a graduate student at the University of Waterloo supervised by Prof. [https://cs.uwaterloo.ca/~ppoupart/ Pascal Poupart]. 
+I am associated with the [http://compstats.uwaterloo.ca/ Computational Statistics Group]. 
+
+My research interests broadly encompass the intersection of optimization, statistics, control and machine learning. My recent work involves investigating techniques from optimization and statistics for improving the sample efficiency of (deep) reinforcement learning algorithms.
+
+Previously, I was an undergraduate student studying electrical and computer engineering at the University of Toronto.
