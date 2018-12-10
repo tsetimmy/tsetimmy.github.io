@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{index.html}
+
+= Research Interests
+My research interests broadly span statistics, optimization and control. More recently, I have been working on statistical models for systems identification, Bayesian belief belief tracking for directed exploration and stochastic policy optimization, all for the purpose of sample efficient model-based reinforcement learning/control.
+
+In the past, I have dabbled in various diverse research areas, including human computer interaction, cosmology and computer systems.
+
+Below, I list a few of my past projects not necessarily related to my current interests.
+== Past Projects
+*A Replication of Matrix Completion Algorithms* This work reproduces some of the state-of-the-art algorithms for matrix completion including gradient descent, two-block alternating minimization and stochastic gradient descent. In addition, 

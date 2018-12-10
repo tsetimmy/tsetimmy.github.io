@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}
+
+= Courses
+== University of Waterloo
+- Convex Optimization
+- Deep Learning
+- Intelligent Computer Interfaces
+- Human Computer Interaction
+
+== University of Toronto
+*Applied Maths*
+- Inference Algorithms
+- Probability and Applications
+- Algorithms and Data Structures
+- Advanced Engineering Mathematics
+
+*Maths*
+- Linear Algebra
+- Multivariate Calculus
+
+*Communications and Signal Processing*
+- Signals and Systems
+- Communication Systems
+
+*Computer Systems*
+- Computer Hardware, Architecture and Networks
+- Distributed Systems
+- Operating Systems
+- Digital Electronics
+- Databases
