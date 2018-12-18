@@ -1,12 +1,12 @@
 # jemdoc: menu{MENU}{publications.html}
 
 == Conference Papers
-/Ensemble: A Hybrid Human-Machine System for Generating Melody Scores From Audio/\n
+[papers/ensemble.pdf /Ensemble: A Hybrid Human-Machine System for Generating Melody Scores From Audio/]\n
 *T. Tse*, J. Salamon, A. Williams, H. Jiang and E. Law.\n
 Proc. 17th International Society for Music Information Retrieval Conference (ISMIR). New York City, NY, 2016.
 
 
 == Workshop Papers
-/The Big Picture: Preserving Context in the Decomposition of Complex Expert Tasks/\n
+[papers/williams_context_2016.pdf /The Big Picture: Preserving Context in the Decomposition of Complex Expert Tasks/]\n
 Williams, A. C., Bradshaw, J., Schaekermann, M., *Tse, T.*, Callaghan, W. and Law, E.\n
 1st Workshop on Microproductivity at SIGCHI 2016. San Jose, CA, 2016.
