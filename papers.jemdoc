@@ -1,5 +1,8 @@
 # jemdoc: menu{MENU}{publications.html}
 
+== Working Preprints
+/Model-based Bayesian Sparse Sampling for Data Efficient Control/
+
 == Conference Papers
 [papers/ensemble.pdf /Ensemble: A Hybrid Human-Machine System for Generating Melody Scores From Audio/]\n
 *T. Tse*, J. Salamon, A. Williams, H. Jiang and E. Law.\n
